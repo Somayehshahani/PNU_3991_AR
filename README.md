@@ -1,4 +1,10 @@
-# PNU_3991_AR
+#سمیه شاهانی
+- [PNU_3991_AR](https://github.com/Somayehshahani/PNU_3991_AR)
+- [Resume](https://somayehshahani.github.io/resume.en/) 
+- [SOP](https://somayehshahani.github.io/SOP/)
+- [GitHub](https://github.com/Somayehshahani)
+- [patchwork](https://github.com/Somayehshahani/PNU_3991_AR/blob/main/patchwork.png)
+-----------------
 -----------
 ## روز و ساعت ارائه دروس
 
